@@ -6,4 +6,13 @@ This template provides a pre-built setup, containing a Frontend created with Vit
 
 ## Technologies/Packages (Frontend):
 
-* **React
+* **React JS**
+* **Tailwind CSS**
+* **EsLint/Prettier**
+
+
+
+## Technologies/Packages (Backend):
+
+* **Node.js**
+* **Express**
